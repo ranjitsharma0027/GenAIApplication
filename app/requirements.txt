@@ -1,0 +1,10 @@
+flask
+flask_cors
+langchain
+langchain-core
+langchain-community
+langchain-openai
+chromadb
+requests
+openai
+streamlit
