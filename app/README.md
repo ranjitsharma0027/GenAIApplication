@@ -7,7 +7,7 @@ Problem Statement: RAG-Based Question-Answering Chatbot with Containerized Deplo
 
 ## Environment variables
 
-.end file have credentials of OpenAI key & Langchain Key and Langsmith Project information to visualize 
+.env file have credentials of OpenAI key & Langchain Key and Langsmith Project information to visualize 
 
 OPENAI_API_KEY
 LANGCHAIN_API_KEY
