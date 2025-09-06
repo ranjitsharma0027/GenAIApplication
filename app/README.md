@@ -37,7 +37,8 @@ LANGSMITH_PROJECT : LangSmith tool used to debug, evaluate, and monitor applicat
 	
 # manually starting the applications
 Step1: streamlit run Chatboat.py
-Step2 : py Microservice.py 
+
+Step2 : python Microservice.py 
  
  
 ### optional
