@@ -7,4 +7,5 @@ langchain-openai
 chromadb
 requests
 openai
+unstructured
 streamlit
