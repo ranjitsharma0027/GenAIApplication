@@ -35,6 +35,9 @@ LANGSMITH_PROJECT : LangSmith tool used to debug, evaluate, and monitor applicat
 	Explicit RestEndPoint Code Execution : python Microservice.py
 	If Docker image deployed , then running docker image will execute this command automatically
 	
+# manually starting the applications
+Step1: streamlit run Chatboat.py
+Step2 : py Microservice.py 
  
  
 ### optional
